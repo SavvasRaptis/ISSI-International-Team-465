@@ -20,7 +20,7 @@ conda install -c conda-forge jupyterlab
 
 ## Authors
 
-* [![Savvas Raptis: 0000-0002-4381-3197](https://img.shields.io/badge/Savvas%20Raptis-0000--0002--4381--3197-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-4381-3197)  (*Corresponding author* - [email](mailto:savvra@kth.se))
+* [![Savvas Raptis: 0000-0002-4381-3197](https://img.shields.io/badge/Savvas%20Raptis-0000--0002--4381--3197-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-4381-3197)
 
 * [![Tomas Karlsson: 0000-0003-1270-1616](https://img.shields.io/badge/Tomas%20Karlsson-0000--0003--1270--1616-green?style=flat&logo=orcid)](https://orcid.org/0000-0003-1270-1616)
 
