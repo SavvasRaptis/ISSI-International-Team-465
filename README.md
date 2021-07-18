@@ -7,6 +7,8 @@
 
 ## Getting Started
 
+[Read full proposal here](https://www.issibern.ch/teams/heliosysspec/wp-content/uploads/2020/03/Hietala_ISSI_2019_International_Team_proposal_final.pdf)
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/WT1oMLPgR2s/0.jpg)](http://www.youtube.com/watch?v=WT1oMLPgR2s "Do all the planets sound different?")
 
 
