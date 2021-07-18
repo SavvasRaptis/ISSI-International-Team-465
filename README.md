@@ -18,11 +18,14 @@ conda install -c conda-forge notebook
 conda install -c conda-forge jupyterlab
 ```
 
+Furthermore, for the usage of the examples in the notebook folder, two more packages are needed.  Python library that allows the usage of MATLAB kernel in jupyter notebooks [link](https://am111.readthedocs.io/en/latest/jmatlab_install.html) and the irfu-matlab package available at is available at [irfu](https://github.com/irfu/irfu-matlab). After installing it one can simply add the library to MATLAB's path and run:
+
+```matlab
+irfu
+```
 ## Authors
 
 * [![Savvas Raptis: 0000-0002-4381-3197](https://img.shields.io/badge/Savvas%20Raptis-0000--0002--4381--3197-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-4381-3197)
-
-* [![Tomas Karlsson: 0000-0003-1270-1616](https://img.shields.io/badge/Tomas%20Karlsson-0000--0003--1270--1616-green?style=flat&logo=orcid)](https://orcid.org/0000-0003-1270-1616)
 
 ## License
 
