@@ -7,6 +7,10 @@
 
 ## Getting Started
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/WT1oMLPgR2s/0.jpg)](http://www.youtube.com/watch?v=WT1oMLPgR2s "Do all the planets sound different?")
+
+
+
 ### Prerequisites (Windows Setup)
 
 For the Python scripts you need to install anaconda with [jupyter](https://jupyter.org/install) and some other libraries. To do so, install [anaconda](https://docs.anaconda.com/anaconda/install/windows/) and run Anaconda Prompt Terminal. From there create an environment and update the packages via the following code:
@@ -18,7 +22,7 @@ conda install -c conda-forge notebook
 conda install -c conda-forge jupyterlab
 ```
 
-Furthermore, for the usage of the examples in the notebook folder, two more packages are needed.  Python library that allows the usage of MATLAB kernel in jupyter notebooks available here: [link](https://am111.readthedocs.io/en/latest/jmatlab_install.html) 
+Furthermore, for the usage of the examples in the notebook folder, two more packages are needed.  Python library that allows the usage of MATLAB kernel in jupyter notebooks available here: [link](https://am111.readthedocs.io/en/latest/jmatlab_install.html)
 
 
 Then we also use the irfu-matlab package available at is available at [irfu](https://github.com/irfu/irfu-matlab). After installing it one can simply add the library to MATLAB's path and run:
