@@ -41,3 +41,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 This code was used in the following publications:
 - [![Publication: Published](https://img.shields.io/badge/Publication-Published-green?style=flat&logo=openaccess)](https://www.issibern.ch/teams/heliosysspec/index.php/publications/)
+
+Collinson, G., D. Sibeck, N. Omidi, R. Frahm, T. Zhang, D. Mitchell, J. Halekas, J. Espley, Y. Futaana, and B. Jakosky (2020), Foreshock cavities at Venus and Mars, J. Geophys. Res., 125, e2020JA028023. doi:10.1029/2020JA028023.
+An, X., T. Z. Liu, J. Bortnik, A. Osmane, and V. Angelopoulos (2020), Formation of Foreshock Transients and Associated Secondary Shocks, Astrophys. J., 901, 1, 73, doi:10.3847/1538-4357/abaf03.
+Liu, T. Z., X. An, H. Zhang, and D. Turner (2020), Magnetospheric Multiscale Observations of Foreshock Transients at Their Very Early Stage, Astrophys. J., 902, 1, 5, doi:10.3847/1538-4357/abb249.
+
