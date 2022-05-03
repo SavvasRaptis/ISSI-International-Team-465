@@ -39,7 +39,8 @@ irfu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-This code was used in the following publications:
+Here we list publications that have acknowledged this ISSI team:
+
 - [![Publication: Published](https://img.shields.io/badge/Publication-Published-green?style=flat&logo=openaccess)](https://www.issibern.ch/teams/heliosysspec/index.php/publications/)
 
 Collinson, G., D. Sibeck, N. Omidi, R. Frahm, T. Zhang, D. Mitchell, J. Halekas, J. Espley, Y. Futaana, and B. Jakosky (2020), Foreshock cavities at Venus and Mars, J. Geophys. Res., 125, e2020JA028023. doi:10.1029/2020JA028023.
