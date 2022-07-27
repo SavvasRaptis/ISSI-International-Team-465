@@ -49,3 +49,5 @@ An, X., T. Z. Liu, J. Bortnik, A. Osmane, and V. Angelopoulos (2020), Formation 
 
 Liu, T. Z., X. An, H. Zhang, and D. Turner (2020), Magnetospheric Multiscale Observations of Foreshock Transients at Their Very Early Stage, Astrophys. J., 902, 1, 5, doi:10.3847/1538-4357/abb249.
 
+Raptis, S., Karlsson, T., Vaivads, A., Pollock, C., Plaschke, F., Johlander, A., Trollvik, H., & Lindqvist, P. A. (2022). Downstream high-speed plasma jet generation as a direct consequence of shock reformation. Nature communications, 13(1), 598. https://doi.org/10.1038/s41467-022-28110-4
+
