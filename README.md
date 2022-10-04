@@ -30,9 +30,6 @@ Then we also use the irfu-matlab package available at is available at [irfu](htt
 ```matlab
 irfu
 ```
-## Authors
-
-* [![Savvas Raptis: 0000-0002-4381-3197](https://img.shields.io/badge/Savvas%20Raptis-0000--0002--4381--3197-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-4381-3197)
 
 ## License
 
