@@ -16,7 +16,7 @@
 For the Python scripts you need to install anaconda with [jupyter](https://jupyter.org/install) and some other libraries. To do so, install [anaconda](https://docs.anaconda.com/anaconda/install/windows/) and run Anaconda Prompt Terminal. From there create an environment and update the packages via the following code:
 
 ```concole
-conda create -n ISSI_465 spyder matplotlib seaborn scikit-learn pandas
+conda create -n ISSI_465 spyder matplotlib seaborn scikit-learn pandas scipy
 conda activate ISSI_465
 conda install -c conda-forge notebook
 conda install -c conda-forge jupyterlab
